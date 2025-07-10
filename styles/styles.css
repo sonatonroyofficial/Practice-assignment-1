@@ -1,0 +1,139 @@
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+/* share styles */
+.btn-primary{
+    background-color: rgba(78, 71, 255, 1);
+    color: white;
+    padding: 12px 36px;
+    border-radius: 10px;
+    text-decoration: none;
+    
+}
+
+.btn-signup{
+    background-color:  rgba(78, 71, 255, 1) ;
+    color: white;
+    padding: 12px 36px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+/* header styles */
+.header{
+ background-image: url(../Assets/Hero-bg.png);
+
+}
+
+
+/* Nav styles */
+.web-name{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 150px;
+}
+nav h1{
+    color: rgba(78, 71, 255, 1);
+    text-align: center; 
+}
+
+.nav-title{
+    max-width: 905px;
+}
+
+/* .btn-nav{
+    background-color: rgba(78, 71, 255, 1);
+    color: white;
+    padding: 12px 36px;
+    border-radius: 10px;
+} */
+
+.banner{
+    gap: 158px;
+    text-align: center;
+     padding: 200px;
+}
+
+.banner-title {
+    font-weight: bold;
+    font-size: 80px
+}
+
+/* action styles */
+
+/* .action{
+    gap: 116px;
+    display: flex;
+    justify-content: space-between;
+    padding: 141px ;
+}
+
+.btn-action{
+     background-color: rgba(78, 71, 255, 1);
+    color: white;
+    padding: 12px 36px;
+    border-radius: 10px;
+    text-decoration: none;
+
+}
+
+.action-img{
+    margin: auto;
+    border-radius: 46px;
+} */
+
+.btn-action{
+      background-color: rgba(78, 71, 255, 1);
+    color: white;
+    padding: 12px 36px;
+    border-radius: 10px;
+    text-decoration: none;
+
+}
+
+.action-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px 80px;
+  border-radius: 16px;
+  margin: 60px auto;
+  max-width: 1200px;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.action-text {
+  flex: 1;
+  min-width: 300px;
+}
+
+.action-text h2 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 15px;
+}
+
+.action-text p {
+  font-size: 16px;
+  color: #25243250;
+  margin-bottom: 25px;
+}
+
+.action-image img {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 48px;
+}
+
+/* productive-users-section */
+
+
